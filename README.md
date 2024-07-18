@@ -2,10 +2,10 @@
 A new convolutional neural network capsule neural network (CNN CapsNet) model is proposed and applied to the analysis of the sentiment analysis.
 
 ## Training ##
-- /train.py
+`/train.py`
 
 ## Evaluating ##
-- ./eval.py --eval_train --checkpoint_dir="./runs/1721314436/checkpoints/"
+`./eval.py --eval_train --checkpoint_dir="./runs/1721314436/checkpoints/`
 
 ## Requirements ##
 - Python 3.6.13
