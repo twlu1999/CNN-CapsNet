@@ -15,7 +15,7 @@ A new convolutional neural network capsule neural network (CNN CapsNet) model is
 ## References ##
 - The part of CNN code comes from https://github.com/dennybritz/cnn-text-classification-tf
 - The part of CapsNet code comes from https://github.com/khikmatullaev/CapsNet-Keras-Text-Classification
-- The following URL we quote for datasets  
-  https://github.com/AcademiaSinicaNLPLab/sentiment_dataset/tree/master/data  
-  https://www.kaggle.com/datasets/williamhua/senteval
-  https://github.com/khikmatullaev/CapsNet-Keras-Text-Classification/tree/master/datasets
+- The following URL we quote for datasets   
+  https://github.com/khikmatullaev/CapsNet-Keras-Text-Classification/tree/master/datasets   
+  https://github.com/AcademiaSinicaNLPLab/sentiment_dataset/tree/master/data    
+  https://www.kaggle.com/datasets/williamhua/senteval     
